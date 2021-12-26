@@ -1,16 +1,3 @@
-/*
-            DSA LAB PROJECT
-
-
-            MUHAMMAD SAMULLAH
-            FA20-BSE-007
-            Section B
-
-            Project Name: Student Library Management System
-*/
-
-
-
 
 
 #include <stdio.h>
@@ -778,7 +765,6 @@ void greetings()
     {
             printf("\n\n");
             printf("\t\t\t     ***********************************************************\n");
-            printf("\t\t\t     *              FA20-BSE-007@cuilahore.edu.pk              *\n");
             printf("\t\t\t     *                                                         *\n");
             printf("\t\t\t     *                                                         *\n");
             printf("\t\t\t     *      WELCOME TO STUDENT LIBRARY  MANAGEMENT SYSTEM      *\n");
@@ -793,8 +779,8 @@ void greetings()
             printf("\t\t\t     *                                                         *\n");
             printf("\t\t\t     *                                                         *\n");
             printf("\t\t\t     *                   MUHAMMAD SAMIULLAH                    *\n");
-            printf("\t\t\t     *                   FA20-BSE-007                          *\n");
-            printf("\t\t\t     *                   SECTION B                             *\n");
+            printf("\t\t\t     *                   Contact At:                           *\n");
+            printf("\t\t\t     *                   sami03496@gmail.com                   *\n");
             printf("\t\t\t     *                                                         *\n");
             printf("\t\t\t     ***********************************************************\n\n\n");
 
